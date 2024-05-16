@@ -40,8 +40,3 @@ FLIPZON offers a command-line-based user interface where users can log in as adm
 3. **Explore as Guest:** Unregistered users can explore the application without purchasing.
 4. **View Special Deals:** Access available special deals offering discounted prices on product combinations.
 
-## Demonstration
-
-FLIPZON provides a comprehensive shopping experience, showcasing at least three product categories and customers of each category. Experience the convenience of online shopping with FLIPZON!
-
-Thank you for choosing FLIPZON. Happy shopping!
